@@ -7,8 +7,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A1128)](https://flexcodesoftware.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1128)](https://www.linkedin.com/in/lucas-bertone2/)
-[![Instagram](https://img.shields.io/badge/Instagram-0077FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A1128)](https://instagram.com/lucassbertone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bertone2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucassbertone)
 [![Email](https://img.shields.io/badge/Email-0077FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128)](mailto:bertonelucas885@gmail.com)
 [![Visitas](https://komarev.com/ghpvc/?username=Lucasbertone02&style=for-the-badge&color=0077FF&labelColor=0A1128&label=VISITAS)](https://github.com/Lucasbertone02)
 
@@ -29,72 +29,165 @@ Construyo aplicaciones web con **Next.js**, **React** y **TypeScript**, y las AP
 
 <br/>
 
-## 🚀 Proyectos en producción
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
+</div>
 
-<table>
+<h2 align="center">🚀 Productos en producción</h2>
+
+<br/>
+
+<div align="center">
+<a href="https://zonea.app">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fzonea.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+</div>
+
+<h3 align="center">Zonea · <a href="https://zonea.app">zonea.app</a></h3>
+
+<p align="center">
+<b>SaaS multi-tenant de gestión de torneos de pádel</b><br/>
+Clubes crean torneos en tres formatos, el motor genera los fixtures con horarios y canchas asignados,<br/>
+y los resultados salen exportados como imagen con el brand kit de cada club.
+</p>
+
+<p align="center">
+Arquitectura hexagonal con el dominio testeado primero — <b>+1.800 tests</b><br/>
+Aislamiento de datos por club con <b>Row-Level Security de PostgreSQL</b>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B" />
+</p>
+
+<br/>
+
+<div align="center">
+<a href="https://templobarberia.com.ar">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Ftemplobarberia.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+</div>
+
+<h3 align="center">Templo Barbería · <a href="https://templobarberia.com.ar">templobarberia.com.ar</a></h3>
+
+<p align="center">
+<b>Sistema de gestión y reservas online</b><br/>
+Reservas de turnos, panel administrativo con vista kanban por barbero,<br/>
+programa de fidelidad con niveles y reportes financieros exportables.
+</p>
+
+<p align="center">
+Control de doble reserva a nivel de base de datos: constraint condicional<br/>
++ transacción que devuelve <b>HTTP 409</b> ante conflictos concurrentes
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_6-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<br/>
+
+<div align="center">
+<a href="https://flexcodesoftware.com">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fflexcodesoftware.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+</div>
+
+<h3 align="center">FlexCode Software · <a href="https://flexcodesoftware.com">flexcodesoftware.com</a></h3>
+
+<p align="center">
+<b>Mi empresa</b> — desarrollo web a medida y productos propios<br/>
+Sitio institucional con arquitectura modular de componentes reutilizables,<br/>
+optimización de assets y SEO técnico.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Astro-2C2052?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<br/>
+
+<h3 align="center">Vectus <sub><i>· producto propio, acceso privado</i></sub></h3>
+
+<p align="center">
+<b>SaaS multi-tenant de gestión operativa</b><br/>
+Remitos digitales con firma en pantalla y PDF generado en el navegador, gestión de contratos<br/>
+y clientes, ruteo de operaciones, caja con estado de resultado (P&L) y cuenta corriente.
+</p>
+
+<p align="center">
+Una sola base de código sirviendo a varias empresas con planes y feature flags por instancia<br/>
+El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fracciones de segundo
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
+</div>
+
+<h2 align="center">🌐 Otros sitios en producción</h2>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-### Vectus
-**SaaS multi-tenant de gestión**
-
-Una sola base de código sirviendo a varias empresas con planes y feature flags por instancia. Remitos digitales con firma en pantalla, contratos, ruteo de operaciones y caja con P&L.
-
-Bajé el listado de remitos de **~560 kB / ~1,8 s** a **~60 kB** y fracciones de segundo eliminando N+1 y moviendo filtrado y paginación al server.
-
-`Next.js 16` `TypeScript` `Django 5` `PostgreSQL`
-
+<td width="33%" align="center">
+<a href="https://remolquesbahia.com.ar"><img src="https://api.microlink.io/?url=https%3A%2F%2Fremolquesbahia.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>Remolques Bahía</b>
 </td>
-<td width="50%" valign="top">
-
-### [Zonea](https://zonea.app)
-**SaaS de gestión de torneos de pádel**
-
-Clubes crean torneos, el motor genera los fixtures con horarios y canchas, y los resultados salen exportados como imagen con el brand kit del club.
-
-Arquitectura hexagonal con el dominio testeado primero: **+1.800 tests**. Multi-tenancy con Row-Level Security de PostgreSQL.
-
-`Next.js 16` `React 19` `Prisma` `Vitest`
-
+<td width="33%" align="center">
+<a href="https://bikexperiencemendoza.tur.ar"><img src="https://api.microlink.io/?url=https%3A%2F%2Fbikexperiencemendoza.tur.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>Bike Xperience Mendoza</b>
+</td>
+<td width="33%" align="center">
+<a href="https://gbsanitaria.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fgbsanitaria.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>GB Sanitaria</b>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Templo Barbería](https://templobarberia.com.ar)
-**Sistema de gestión y reservas**
-
-Reservas online, panel admin con vista kanban de turnos, programa de fidelidad y reportes financieros.
-
-Control de doble reserva a nivel de base de datos con constraint condicional y transacción que devuelve **409** en conflictos concurrentes.
-
-`Next.js 15` `Zustand` `Django 6` `JWT`
-
+<td width="33%" align="center">
+<a href="https://sanicam.net"><img src="https://api.microlink.io/?url=https%3A%2F%2Fsanicam.net&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>Sanicam</b>
 </td>
-<td width="50%" valign="top">
-
-### [FlexCode Software](https://flexcodesoftware.com)
-**Sitio institucional y proyectos a medida**
-
-Arquitectura modular de componentes reutilizables con optimización de assets y SEO técnico.
-
-Nueve sitios y plataformas en producción entre Argentina, Uruguay y España, desde el relevamiento hasta el deploy.
-
-`Astro` `TypeScript` `Tailwind`
-
+<td width="33%" align="center">
+<a href="https://mfaltadecoracion.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fmfaltadecoracion.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>MFalta Decoración</b>
+</td>
+<td width="33%" align="center">
+<a href="https://centroeducativoavanzar.edu.uy"><img src="https://api.microlink.io/?url=https%3A%2F%2Fcentroeducativoavanzar.edu.uy&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<br/><b>Centro Educativo Avanzar</b>
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[remolquesbahia.com.ar](https://remolquesbahia.com.ar) · [bikexperiencemendoza.tur.ar](https://bikexperiencemendoza.tur.ar) · [gbsanitaria.com](https://gbsanitaria.com) · [sanicam.net](https://sanicam.net) · [mfaltadecoracion.com](https://mfaltadecoracion.com) · [centroeducativoavanzar.edu.uy](https://centroeducativoavanzar.edu.uy)
-
-</div>
-
 <br/>
 
-## 💻 Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
+</div>
+
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
 
@@ -114,7 +207,7 @@ Nueve sitios y plataformas en producción entre Argentina, Uruguay y España, de
 
 <br/>
 
-## 🧭 Cómo trabajo
+<h2 align="center">🧭 Cómo trabajo</h2>
 
 > **Arquitectura primero.** Multi-tenancy, límites de dominio y modelo de datos antes del primer archivo.
 >
@@ -123,18 +216,6 @@ Nueve sitios y plataformas en producción entre Argentina, Uruguay y España, de
 > **Performance medida, no supuesta.** Si digo que algo bajó de 1,8 s, tengo el número de antes.
 >
 > **Seguridad durante, no después.** Auditorías por ronda: mass-assignment, IDOR, sesión y tokens, control de acceso por rol.
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=Lucasbertone02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lucasbertone02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</div>
 
 <br/>
 
