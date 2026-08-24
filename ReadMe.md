@@ -39,7 +39,7 @@ Construyo aplicaciones web con **Next.js**, **React** y **TypeScript**, y las AP
 
 <div align="center">
 <a href="https://zonea.app">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fzonea.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+  <img src="assets/zonea.png" width="100%" />
 </a>
 </div>
 
@@ -69,7 +69,7 @@ Aislamiento de datos por club con <b>Row-Level Security de PostgreSQL</b>
 
 <div align="center">
 <a href="https://templobarberia.com.ar">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Ftemplobarberia.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+  <img src="assets/templo.png" width="100%" />
 </a>
 </div>
 
@@ -99,7 +99,7 @@ Control de doble reserva a nivel de base de datos: constraint condicional<br/>
 
 <div align="center">
 <a href="https://flexcodesoftware.com">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fflexcodesoftware.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+  <img src="assets/flexcode.png" width="100%" />
 </a>
 </div>
 
@@ -119,6 +119,10 @@ optimización de assets y SEO técnico.
 </p>
 
 <br/>
+
+<div align="center">
+  <img src="assets/vectus.png" width="100%" />
+</div>
 
 <h3 align="center">Vectus <sub><i>· producto propio, acceso privado</i></sub></h3>
 
@@ -153,29 +157,29 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <table align="center">
 <tr>
 <td width="33%" align="center">
-<a href="https://remolquesbahia.com.ar"><img src="https://api.microlink.io/?url=https%3A%2F%2Fremolquesbahia.com.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://remolquesbahia.com.ar"><img src="assets/remolques.png" width="100%" /></a>
 <br/><b>Remolques Bahía</b>
 </td>
 <td width="33%" align="center">
-<a href="https://bikexperiencemendoza.tur.ar"><img src="https://api.microlink.io/?url=https%3A%2F%2Fbikexperiencemendoza.tur.ar&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://bikexperiencemendoza.tur.ar"><img src="assets/bikexperience.png" width="100%" /></a>
 <br/><b>Bike Xperience Mendoza</b>
 </td>
 <td width="33%" align="center">
-<a href="https://gbsanitaria.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fgbsanitaria.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://gbsanitaria.com"><img src="assets/gbsanitaria.png" width="100%" /></a>
 <br/><b>GB Sanitaria</b>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
-<a href="https://sanicam.net"><img src="https://api.microlink.io/?url=https%3A%2F%2Fsanicam.net&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://sanicam.net"><img src="assets/sanicam.png" width="100%" /></a>
 <br/><b>Sanicam</b>
 </td>
 <td width="33%" align="center">
-<a href="https://mfaltadecoracion.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fmfaltadecoracion.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://mfaltadecoracion.com"><img src="assets/mfalta.png" width="100%" /></a>
 <br/><b>MFalta Decoración</b>
 </td>
 <td width="33%" align="center">
-<a href="https://centroeducativoavanzar.edu.uy"><img src="https://api.microlink.io/?url=https%3A%2F%2Fcentroeducativoavanzar.edu.uy&screenshot=true&meta=false&embed=screenshot.url" width="100%" /></a>
+<a href="https://centroeducativoavanzar.edu.uy"><img src="assets/avanzar.png" width="100%" /></a>
 <br/><b>Centro Educativo Avanzar</b>
 </td>
 </tr>
