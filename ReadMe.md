@@ -20,7 +20,7 @@
 
 Construyo aplicaciones web con **Next.js**, **React** y **TypeScript**, y las APIs que están atrás con **Django REST Framework** y **PostgreSQL**. Cofundador de [FlexCode Software](https://flexcodesoftware.com), donde diseño plataformas SaaS multi-tenant que hoy corren en producción con clientes reales en Argentina, Uruguay y España.
 
-- 🔭 **Trabajando en** — Vectus y [zonea.app](https://zonea.app), dos plataformas SaaS multi-tenant en producción. Una sola base de código sirviendo a varias empresas con planes y feature flags por instancia.
+- 🔭 **Trabajando en** — [Vectus](https://vectusolutions.com) y [zonea.app](https://zonea.app), dos plataformas SaaS multi-tenant en producción. Una sola base de código sirviendo a varias empresas con planes y feature flags por instancia.
 - 🌱 **Aprendiendo** — arquitectura hexagonal aplicada a producto real, optimización de React Server Components y desarrollo agéntico con Claude Code.
 - 👯 **Quiero colaborar en** — productos con Next.js, TypeScript o Django REST, sobre todo con arquitectura multi-tenant, desafíos de performance o testing que importe.
 - 💬 **Preguntame sobre** — Next.js App Router, Django REST Framework, multi-tenancy con Row-Level Security en PostgreSQL, JWT con rotación de refresh tokens, o cómo bajar un endpoint de 560 kB y 1,8 s a 60 kB y fracciones de segundo.
@@ -121,10 +121,12 @@ optimización de assets y SEO técnico.
 <br/>
 
 <div align="center">
+<a href="https://vectusolutions.com">
   <img src="assets/vectus.png" width="100%" />
+</a>
 </div>
 
-<h3 align="center">Vectus <sub><i>· producto propio, acceso privado</i></sub></h3>
+<h3 align="center">Vectus · <a href="https://vectusolutions.com">vectusolutions.com</a></h3>
 
 <p align="center">
 <b>SaaS multi-tenant de gestión operativa</b><br/>
@@ -159,28 +161,31 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <td width="33%" align="center">
 <a href="https://remolquesbahia.com.ar"><img src="assets/remolques.png" width="100%" /></a>
 <br/><b>Remolques Bahía</b>
+<br/><sub>Next.js · Tailwind</sub>
 </td>
 <td width="33%" align="center">
 <a href="https://bikexperiencemendoza.tur.ar"><img src="assets/bikexperience.png" width="100%" /></a>
 <br/><b>Bike Xperience Mendoza</b>
+<br/><sub>Next.js · Tailwind</sub>
 </td>
 <td width="33%" align="center">
-<a href="https://gbsanitaria.com"><img src="assets/gbsanitaria.png" width="100%" /></a>
-<br/><b>GB Sanitaria</b>
+<a href="https://sanicam.net"><img src="assets/sanicam.png" width="100%" /></a>
+<br/><b>Sanicam</b>
+<br/><sub>HTML · CSS · JS</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
-<a href="https://sanicam.net"><img src="assets/sanicam.png" width="100%" /></a>
-<br/><b>Sanicam</b>
-</td>
-<td width="33%" align="center">
 <a href="https://mfaltadecoracion.com"><img src="assets/mfalta.png" width="100%" /></a>
 <br/><b>MFalta Decoración</b>
+<br/><sub>HTML · CSS · JS</sub>
 </td>
 <td width="33%" align="center">
 <a href="https://centroeducativoavanzar.edu.uy"><img src="assets/avanzar.png" width="100%" /></a>
 <br/><b>Centro Educativo Avanzar</b>
+<br/><sub>Mi primera web · 95+ Lighthouse</sub>
+</td>
+<td width="33%" align="center">
 </td>
 </tr>
 </table>
