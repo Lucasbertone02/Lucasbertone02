@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Lucas Bertone — Frontend / Full-Stack Developer" />
+<img src="assets/header.svg" alt="Lucas Bertone — Frontend / Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0077FF&center=true&vCenter=true&width=650&lines=Cofundador+de+FlexCode+Software;Construyo+SaaS+multi-tenant+en+producci%C3%B3n;Next.js+%C2%B7+TypeScript+%C2%B7+Django+REST;De+Bah%C3%ADa+Blanca%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
 
@@ -30,7 +30,7 @@ Construyo aplicaciones web con **Next.js**, **React** y **TypeScript**, y las AP
 <br/>
 
 <div align="center">
-<img src="assets/trayectoria.svg" width="100%" alt="Trayectoria 2022-2026: primera web, FlexCode, Templo Barbería, Vectus, Zonea" />
+<img src="assets/trayectoria.svg" alt="Trayectoria 2022-2026: primera web, FlexCode, Templo Barbería, Vectus, Zonea" />
 </div>
 
 <br/>
@@ -70,7 +70,7 @@ Aislamiento de datos por club con <b>Row-Level Security de PostgreSQL</b>
 <br/>
 
 <div align="center">
-<img src="assets/fixtures.svg" width="100%" alt="Motor de generación de fixtures de Zonea: llave de eliminación construida automáticamente" />
+<img src="assets/fixtures.svg" alt="Motor de generación de fixtures de Zonea: llave de eliminación construida automáticamente" />
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ Control de doble reserva a nivel de base de datos: constraint condicional<br/>
 <br/>
 
 <div align="center">
-<img src="assets/concurrencia.svg" width="100%" alt="Control de doble reserva: dos clientes piden el mismo turno, la base de datos confirma uno y devuelve 409 al otro" />
+<img src="assets/concurrencia.svg" alt="Control de doble reserva: dos clientes piden el mismo turno, la base de datos confirma uno y devuelve 409 al otro" />
 </div>
 
 <br/>
@@ -165,7 +165,7 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <br/>
 
 <div align="center">
-<img src="assets/arquitectura.svg" width="100%" alt="Arquitectura multi-tenant de Vectus: una base de código, planes y feature flags por instancia, aislamiento con Row-Level Security de PostgreSQL" />
+<img src="assets/arquitectura.svg" alt="Arquitectura multi-tenant de Vectus: una base de código, planes y feature flags por instancia, aislamiento con Row-Level Security de PostgreSQL" />
 </div>
 
 <br/>
@@ -234,7 +234,7 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <h2 align="center">Resultados medidos</h2>
 
 <div align="center">
-<img src="assets/evidencia.svg" width="100%" alt="Peso de respuesta de 560 kB a 60 kB, tiempo de carga de 1,8 s a fracciones de segundo, 2.400 tests automatizados" />
+<img src="assets/evidencia.svg" alt="Peso de respuesta de 560 kB a 60 kB, tiempo de carga de 1,8 s a fracciones de segundo, 2.400 tests automatizados" />
 </div>
 
 <p align="center">
