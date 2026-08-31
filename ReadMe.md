@@ -165,7 +165,7 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 </td>
 <td width="33%" align="center">
 <a href="https://bikexperiencemendoza.tur.ar"><img src="assets/bikexperience.png" width="100%" /></a>
-<br/><b>Bike Xperience Mendoza</b>
+<br/><b>Bike Experience Mendoza</b>
 <br/><sub>Next.js · Tailwind</sub>
 </td>
 <td width="33%" align="center">
