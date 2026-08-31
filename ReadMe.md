@@ -122,7 +122,7 @@ optimización de assets y SEO técnico.
 
 <div align="center">
 <a href="https://vectusolutions.com">
-  <img src="assets/vectus.png" width="100%" />
+  <img src="assets/vectus.webp" width="100%" />
 </a>
 </div>
 
@@ -186,6 +186,9 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <br/><sub>Mi primera web · 95+ Lighthouse</sub>
 </td>
 <td width="33%" align="center">
+<a href="https://acquimicos.com"><img src="assets/acquimicos.png" width="100%" /></a>
+<br/><b>AC Químicos</b>
+<br/><sub>HTML · CSS · JS</sub>
 </td>
 </tr>
 </table>
