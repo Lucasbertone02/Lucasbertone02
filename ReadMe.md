@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0353A4,100:0077FF&height=200&section=header&text=Lucas%20Bertone&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20%2F%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Lucas Bertone — Frontend / Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0077FF&center=true&vCenter=true&width=650&lines=Cofundador+de+FlexCode+Software;Construyo+SaaS+multi-tenant+en+producci%C3%B3n;Next.js+%C2%B7+TypeScript+%C2%B7+Django+REST;De+Bah%C3%ADa+Blanca%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
 
@@ -30,8 +30,10 @@ Construyo aplicaciones web con **Next.js**, **React** y **TypeScript**, y las AP
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
+<img src="assets/trayectoria.svg" width="100%" alt="Trayectoria 2022-2026: primera web, FlexCode, Templo Barbería, Vectus, Zonea" />
 </div>
+
+<br/>
 
 <h2 align="center">🚀 Productos en producción</h2>
 
@@ -151,8 +153,10 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
+<img src="assets/arquitectura.svg" width="100%" alt="Arquitectura multi-tenant de Vectus: una base de código, planes y feature flags por instancia, aislamiento con Row-Level Security de PostgreSQL" />
 </div>
+
+<br/>
 
 <h2 align="center">🌐 Otros sitios en producción</h2>
 
@@ -165,7 +169,7 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 </td>
 <td width="33%" align="center">
 <a href="https://bikexperiencemendoza.tur.ar"><img src="assets/bikexperience.png" width="100%" /></a>
-<br/><b>Bike Experience Mendoza</b>
+<br/><b>Bike Xperience Mendoza</b>
 <br/><sub>Next.js · Tailwind</sub>
 </td>
 <td width="33%" align="center">
@@ -195,10 +199,6 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0353A4,100:0077FF&height=3" width="100%" />
-</div>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
@@ -219,20 +219,25 @@ El listado de remitos pasó de <b>~560 kB y ~1,8 s</b> a <b>~60 kB</b> y fraccio
 
 <br/>
 
-<h2 align="center">🧭 Cómo trabajo</h2>
+<h2 align="center">Resultados medidos</h2>
 
-> **Arquitectura primero.** Multi-tenancy, límites de dominio y modelo de datos antes del primer archivo.
->
-> **Tests, no como trámite.** En Zonea el dominio se testeó antes de que existiera la UI.
->
-> **Performance medida, no supuesta.** Si digo que algo bajó de 1,8 s, tengo el número de antes.
->
-> **Seguridad durante, no después.** Auditorías por ronda: mass-assignment, IDOR, sesión y tokens, control de acceso por rol.
+<div align="center">
+<img src="assets/evidencia.svg" width="100%" alt="Peso de respuesta de 560 kB a 60 kB, tiempo de carga de 1,8 s a fracciones de segundo, 2.400 tests automatizados" />
+</div>
+
+<p align="center">
+Diseño la arquitectura antes del primer archivo y escribo los tests antes que la UI.<br/>
+Cuando digo que algo mejoró, tengo el número de antes.
+</p>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,50:0353A4,100:0A1128&height=120&section=footer" width="100%" />
+<a href="https://vectusolutions.com"><img src="https://img.shields.io/badge/Vectus-0077FF?style=for-the-badge&logoColor=white&labelColor=0A1128" /></a>
+<a href="https://zonea.app"><img src="https://img.shields.io/badge/Zonea-0077FF?style=for-the-badge&logoColor=white&labelColor=0A1128" /></a>
+<a href="https://flexcodesoftware.com"><img src="https://img.shields.io/badge/FlexCode-0077FF?style=for-the-badge&logoColor=white&labelColor=0A1128" /></a>
+<a href="https://www.linkedin.com/in/lucas-bertone2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bertonelucas885@gmail.com"><img src="https://img.shields.io/badge/Escribime-0077FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1128" /></a>
 
 </div>
