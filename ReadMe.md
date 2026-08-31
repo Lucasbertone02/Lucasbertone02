@@ -70,6 +70,12 @@ Aislamiento de datos por club con <b>Row-Level Security de PostgreSQL</b>
 <br/>
 
 <div align="center">
+<img src="assets/fixtures.svg" width="100%" alt="Motor de generación de fixtures de Zonea: llave de eliminación construida automáticamente" />
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://templobarberia.com.ar">
   <img src="assets/templo.png" width="100%" />
 </a>
@@ -96,6 +102,12 @@ Control de doble reserva a nivel de base de datos: constraint condicional<br/>
 <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
+
+<br/>
+
+<div align="center">
+<img src="assets/concurrencia.svg" width="100%" alt="Control de doble reserva: dos clientes piden el mismo turno, la base de datos confirma uno y devuelve 409 al otro" />
+</div>
 
 <br/>
 
